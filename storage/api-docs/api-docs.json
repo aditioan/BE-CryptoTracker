@@ -1,0 +1,10 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Crypto Tracker API",
+        "version": "1.0.0"
+    },
+    "basePath": "/localhost:8000/api",
+    "paths": {},
+    "definitions": {}
+}
