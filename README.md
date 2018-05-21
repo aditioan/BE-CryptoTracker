@@ -1,6 +1,6 @@
 # Backend for Crypto Tracker
 
-Backend for Cryto Tracker Application using Laravel
+Backend for Crypto Tracker Application using Laravel
 
 License
 ----
